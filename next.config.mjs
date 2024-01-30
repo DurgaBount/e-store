@@ -3,7 +3,7 @@ const nextConfig = {
   images: { domains: ["res.cloudinary.com"] },
   env: {
     NEXT_PUBLIC_API_URL:
-      "https://ecommerce-admin-two-rosy.vercel.app/api/4c8fbf39-cfea-433e-968d-a03f2fe8c364",
+      "https://ecommerce-admin-two-rosy.vercel.app/api/019961d8-eb16-45c8-aa36-5b3070002fa1",
   },
 };
 
